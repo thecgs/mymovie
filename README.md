@@ -2,7 +2,7 @@
 
 ## 合集
 
-[漫威系列](https://github.com/thecgs/mymovie/漫威.md)
+[漫威系列](https://github.com/thecgs/mymovie/blob/main/%E6%BC%AB%E5%A8%81.md)
 
 ## 项目公告
 
